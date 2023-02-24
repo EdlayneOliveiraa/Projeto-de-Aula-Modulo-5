@@ -16,8 +16,8 @@ terminou … são muitas possibilidades de listas!
 
 ⇨ LISTA VAZIA:
 
-<img>![Lista de material escolar](https://user-images.githubusercontent.com/114404910/219876436-9a647132-71b3-4c2d-a326-399a573e18f8.PNG)</img>
+<img>![lista vazia](https://user-images.githubusercontent.com/114404910/221206903-206d00d2-c3f2-4d8c-8de2-130b547e1b02.png)</img>
 
 ⇨ LISTA PREENCHIDA:
 
-<img>![Lista de material escolar 2](https://user-images.githubusercontent.com/114404910/219876463-867af3d0-1fe0-4c55-a34e-6ed72b37cdff.PNG)</img>
+<img>![lista preenchida](https://user-images.githubusercontent.com/114404910/221207024-d3536395-2d39-4378-b371-67aa51b0c688.png)</img>
