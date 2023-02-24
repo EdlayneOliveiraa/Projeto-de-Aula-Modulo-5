@@ -14,6 +14,21 @@ Que tal uma lista de livros que foram lidos? Ou então uma lista de filmes para
 assistir este ano? Ou quem sabe quais são os games que o usuário já jogou e
 terminou … são muitas possibilidades de listas!
 
+
+### 1. Instalar as dependências
+
+```bash
+cd estudoapp
+npm install react-bootstrap bootstrap
+npm install react-router-dom
+```
+
+## 2. Como executar?
+```bash
+npm install
+npm run dev
+```
+
 ⇨ LISTA VAZIA:
 
 <img>![lista vazia](https://user-images.githubusercontent.com/114404910/221206903-206d00d2-c3f2-4d8c-8de2-130b547e1b02.png)</img>
